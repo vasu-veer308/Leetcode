@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vasu-veer308/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vasu-veer308/Leetcode/tree/master/0015-3sum) |
+| [0118-pascals-triangle](https://github.com/vasu-veer308/Leetcode/tree/master/0118-pascals-triangle) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vasu-veer308/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vasu-veer308/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/vasu-veer308/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
